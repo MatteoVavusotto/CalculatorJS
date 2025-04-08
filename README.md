@@ -3,4 +3,4 @@ This is just a small personal project I put together while studying JavaScript. 
 
 The main goal was to get some hands-on practice and really understand how JavaScript works under the hood, especially when it comes to object-oriented programming. It’s been a fun little challenge, and I’ve learned a lot in the process.
 
-Feel free to check it out, and if you have any feedback or ideas to improve it, I’d love to hear them!
+Feel free to check it out, and if you have any feedback or ideas to improve it, I’d love to hear them!!!
